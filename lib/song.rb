@@ -20,7 +20,7 @@ include Paramable
   # end
 
   def self.all
-    @@songs
+    @@all
   end
 
   # def self.reset_all
